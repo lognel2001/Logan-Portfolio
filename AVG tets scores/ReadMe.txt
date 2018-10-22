@@ -1,0 +1,1 @@
+Takes the average from your 6 test scores
