@@ -1,0 +1,1 @@
+This is a program that lets you and some friends play the card game "BlackJack"

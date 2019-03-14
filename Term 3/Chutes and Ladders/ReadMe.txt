@@ -1,0 +1,1 @@
+This program lets you and up to three friends play the board game "Chutes and Ladders"
